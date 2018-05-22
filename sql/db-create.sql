@@ -1,4 +1,5 @@
-
+CREATE DATABASE practice8;
+use practice8;
 
 DROP TABLE IF EXISTS `groups`;
 
